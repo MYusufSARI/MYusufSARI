@@ -1,7 +1,3 @@
-<img src="https://www.freepik.com/free-vector/videogames-background-design_1064374.htm#query=game%20developer&position=6&from_view=keyword&track=ais" alt="alt text" width="320" height="180">
- 
- [![MasterHead](https://www.freepik.com/free-vector/videogames-background-design_1064374.htm#query=game%20developer&position=6&from_view=keyword&track=ais)
-
 <h1 align="center">Hi 👋, I'm YusufSARI</h1>
 <h3 align="center">Jr. Game Developer 🎮</h3>
 

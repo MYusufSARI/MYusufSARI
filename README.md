@@ -4,7 +4,6 @@
 <h3 align="center">Jr. Game Developer 🎮</h3>
 
 
-- 🔭 I’m currently working on **my game project in Unity.**
 
 - 📫 How to reach me **myusuf_44@hotmail.com**
 

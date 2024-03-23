@@ -1,22 +1,76 @@
-![wp7664856-game-development-wallpapers (1)](https://github.com/MYusufSARI/MYusufSARI/assets/137108609/58566770-661a-4a56-9f74-74c179473e77)
+<h4 align="left">Hello there 👋</h4>
 
-<h1 align="center">Hi 👋, I'm YusufSARI</h1>
-<h3 align="center">Jr. Game Developer 🎮</h3>
+###
 
+<h1 align="left">💫 About me:</h1>
 
+###
 
-- 📫 How to reach me **myusuf_44@hotmail.com**
+<h5 align="left">🎮 Unity Game Developer | 🎨Game Art Enthusiast</h5>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/yusuf-sarı-78a908221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yusuf-sarı-78a908221" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<h6 align="left"></h6>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myusufsari&show_icons=true&locale=en&layout=compact" alt="myusufsari" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myusufsari&show_icons=true&locale=en" alt="myusufsari" /></p>
+<h5 align="left">Hello, I'm [Yusuf SARI], a dedicated Unity game developer..</h5>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myusufsari&" alt="myusufsari" /></p>
+###
+
+<h5 align="left"></h5>
+
+###
+
+<h5 align="left">🕹️ My Expertise:<br>- Unity3D and C# Development<br>- Game Design and Gameplay Mechanics<br>- 2D and 3D Game Development<br>- Mathematics and Algorithms</h5>
+
+###
+
+<h5 align="left"></h5>
+
+###
+
+<h5 align="left">💬 Let's Connect:<br>I'm always open to collaborating on exciting game projects or discussing all things related to game development, mathematics, and technology. <br><br>🎮 Happy game!<br>🎮   Happy bug!</h5>
+
+###
+
+<h3 align="left">🌐 Socials:</h3>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/m-yusuf-sari-78a908221" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="18" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">💻 Tech Stack:</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MYusufSARI&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MYusufSARI&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MYusufSARI&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=MYusufSARI&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###

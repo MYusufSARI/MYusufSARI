@@ -39,7 +39,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/m-yusuf-sari-78a908221" target="_blank">
+  <a href="https://www.linkedin.com/in/m-yusuf-sari-78a908221/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="38" alt="linkedin logo"  />
   </a>
 </div>

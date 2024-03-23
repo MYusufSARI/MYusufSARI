@@ -14,7 +14,7 @@
 
 ###
 
-<h5 align="left">Hello, I'm [Yusuf SARI], a dedicated Unity game developer..</h5>
+<h4 align="left">Hello, I'm [Yusuf SARI], a dedicated Unity game developer..</h4>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h5 align="left">🕹️ My Expertise:<br>- Unity3D and C# Development<br>- Game Design and Gameplay Mechanics<br>- 2D and 3D Game Development<br>- Mathematics and Algorithms</h5>
+<h4 align="left">🕹️ My Expertise:<br>- Unity3D and C# Development<br>- Game Design and Gameplay Mechanics<br>- 2D and 3D Game Development<br>- Mathematics and Algorithms</h4>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h5 align="left">💬 Let's Connect:<br>I'm always open to collaborating on exciting game projects or discussing all things related to game development, mathematics, and technology. <br><br>🎮 Happy game!<br>🎮   Happy bug!</h5>
+<h4 align="left">💬 Let's Connect:<br>I'm always open to collaborating on exciting game projects or discussing all things related to game development, mathematics, and technology. <br><br>🎮 Happy game!<br>🎮   Happy bug!</h4>
 
 ###
 

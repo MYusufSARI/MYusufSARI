@@ -22,7 +22,7 @@
 
 ###
 
-<h4 align="left">🕹️ My Expertise:<br>- Unity3D and C# Development<br>- Game Design and Gameplay Mechanics<br>- 2D and 3D Game Development<br>- Mathematics and Algorithms</h4>
+<h4 align="left">🕹️ My Expertise:<br>- Unity3D and C# Development<br>- Game Design and Gameplay Mechanics<br>- 2D and 3D Game Development<br>-/h4>
 
 ###
 

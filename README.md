@@ -30,7 +30,7 @@
 
 ###
 
-<h4 align="left">💬 Let's Connect:<br>I'm always open to collaborating on exciting game projects or discussing all things related to game development, mathematics, and technology. <br><br>🎮 Happy game!<br>🎮   Happy bug!</h4>
+<h4 align="left">💬 Let's Connect:<br>I'm always open to collaborating on exciting game projects or discussing all things related to game development and technology. <br><br>🎮 Happy game!<br>🎮   Happy bug!</h4>
 
 ###
 

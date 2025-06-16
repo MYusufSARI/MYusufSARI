@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">Hello, I'm [Yusuf SARI], a dedicated Unity game developer..</h4>
+<h4 align="left">Hello, I'm Yusuf SARI, a dedicated Unity game developer..</h4>
 
 ###
 

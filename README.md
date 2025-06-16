@@ -55,8 +55,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unity" height="34" alt="unity logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="34" alt="unrealengine logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="34" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="34" alt="firebase logo"  />

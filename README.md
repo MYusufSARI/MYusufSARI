@@ -1,74 +1,15 @@
-<h4 align="left">Hello there 👋</h4>
+# 💫 About Me:
+Hello there 👋<br>💫 About me:<br>🎮 Unity Game Developer | 🎨Game Art Enthusiast<br>Hello, I'm Yusuf SARI, a dedicated Unity game developer..<br>🕹️ My Expertise:<br>- Unity3D and C# Development<br>- Game Design and Gameplay Mechanics<br>💬 Let's Connect:<br>I'm always open to collaborating on exciting game projects or discussing all things related to game development and technology.<br><br>🎮 Happy game!<br>🎮 Happy bug!<br>
 
-###
 
-<h1 align="left">💫 About me:</h1>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/m-yusuf-sari-78a908221/) 
 
-###
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MYusufSARI&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MYusufSARI&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MYusufSARI&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h4 align="left">🎮 Unity Game Developer | 🎨Game Art Enthusiast</h4>
-
-###
-
-<h6 align="left"></h6>
-
-###
-
-<h4 align="left">Hello, I'm Yusuf SARI, a dedicated Unity game developer..</h4>
-
-###
-
-<h5 align="left"></h5>
-
-###
-
-<h4 align="left">🕹️ My Expertise:<br>- Unity3D and C# Development<br>- Game Design and Gameplay Mechanics</h4>
-
-###
-
-<h5 align="left"></h5>
-
-###
-
-<h4 align="left">💬 Let's Connect:<br>I'm always open to collaborating on exciting game projects or discussing all things related to game development and technology. <br><br>🎮 Happy game!<br>🎮   Happy bug!</h4>
-
-###
-
-<h3 align="left">🌐 Socials:</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/m-yusuf-sari-78a908221/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="32" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="left">💻 Tech Stack:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="34" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="34" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="34" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="34" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="34" alt="blender logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=MYusufSARI&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MYusufSARI&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="170" alt="languages graph"  />
-
-  <img src="https://github-profile-trophy.vercel.app?username=MYusufSARI&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
